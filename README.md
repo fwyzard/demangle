@@ -37,3 +37,5 @@ Should print
 $ ./demangleTest
 test::Type
 ```
+
+[Try it on Godbolt](https://godbolt.org/z/jE3jz679d).
